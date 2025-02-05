@@ -7,9 +7,14 @@ import Fbc from './component/Fbc.jsx'
 import Details from './component/Details.jsx'
 import Demo from './component/Demo.jsx'
 import Parent from './props/parent.jsx'
+import Parentc from './props/Parentc.jsx'
+import State from './state/State.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-   <Parent/>
+    {/* <Demo/>
+   <Details/> */}
+   {/* <Parentc/> */}
+   <State/>
   </StrictMode>,
 )
