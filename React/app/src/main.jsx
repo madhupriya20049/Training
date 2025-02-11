@@ -14,6 +14,7 @@ import External from './styles/External.jsx'
 import Comp3 from './list-keys/Comp3.jsx'
 import List from './list-keys/List.jsx'
 import CompA from './useContext/CompA.jsx'
+import UseEffect from './useEffect/UseEffect.jsx'
 // import Ref from './useRef/Ref.jsx'
 // import '../src/styles/globally.css'
 // import Comp1 from './styles/Comp1.jsx'
@@ -29,6 +30,7 @@ createRoot(document.getElementById('root')).render(
    <Comp2/> */}
    {/* <External/> */}
    {/* <List/> */}
-    <CompA/><object data="" type=""></object>
+    {/* <CompA/><object data="" type=""></object> */}
+    <UseEffect/>
   </StrictMode>,
 )
