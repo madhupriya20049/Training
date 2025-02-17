@@ -1,10 +1,14 @@
 {
-
-    "users":[
-        {
-            "name":"madhu",
-            "id":7,
-            "role":"developer"
-        }
-    ]
+  "users": [
+    {
+      "name": "madhu",
+      "id": "7",
+      "role": "developer"
+    },
+    {
+      "id": "2",
+      "name": "madhu",
+      "role": "201"
+    }
+  ]
 }
